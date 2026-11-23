@@ -13,8 +13,7 @@ export default function App() {
           <p className="hero-kicker">OPEN SOURCE STUDIO / WEEK 13</p>
           <h1>Test for the first branch created.</h1>
           <p>
-            One small React project for GitHub collaboration, component analysis,
-            Vercel deployment and REST API integration.
+            Test for the second branch created.
           </p>
           <span className="hero-tag">CLASS PRACTICE ONLY · NO SUBMISSION</span>
         </section>
